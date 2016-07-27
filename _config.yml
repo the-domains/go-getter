@@ -11,6 +11,7 @@ color:
     - '#5C6B73'
     - '#253237'
 layout_spectrum: 0.7730976699385792
-name: Go Getter
-title: Go Getter
+name: Hello
+title: |
+  Go Getter
 description: 'for a little more, get it at your door'
