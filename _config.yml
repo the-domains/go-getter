@@ -1,0 +1,14 @@
+layout_spectrum: 0.7730976699385792
+typography_spectrum: 0.9464892884716392
+color:
+  brandStrength: 0.38099627918563783
+  lightness: 0.35585910570807755
+  saturation: 0.0842820405960083
+  rhythmicContrast: 0.5633949099574238
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: Go Getter
