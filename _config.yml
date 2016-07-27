@@ -1,4 +1,3 @@
-layout_spectrum: 0.7730976699385792
 typography_spectrum: 0.9464892884716392
 color:
   brandStrength: 0.38099627918563783
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.7730976699385792
 name: Go Getter
 title: Go Getter
+description: 'for a little more, get it at your door'
